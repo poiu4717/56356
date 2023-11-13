@@ -85,7 +85,7 @@ proxy-groups:
   - name: Googleplay
     type: select
     proxies:
-  - 🇭🇰 香港01 | x4_解锁
+      - 🇭🇰 香港01 | x4_解锁
       - 🇭🇰 香港02 | x4_解锁
       - 🇭🇰 香港03 | x5_解锁
       - 🇭🇰 香港04 | x4_解锁

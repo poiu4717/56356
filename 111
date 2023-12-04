@@ -15,44 +15,15 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 🇭🇰 香港01 | x4_解锁, server: zz-04.xn--9kq10ed11b.com, port: 57431, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港02 | x4_解锁, server: zz-02.xn--9kq10ed11b.com, port: 35163, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港03 | x5_解锁, server: zz-05.xn--9kq10ed11b.com, port: 41979, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港04 | x4_解锁, server: zz-05.xn--9kq10ed11b.com, port: 10554, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港05 | x4_解锁, server: zz-01.xn--9kq10ed11b.com, port: 21084, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港06 | x5_解锁, server: zz-06.xn--9kq10ed11b.com, port: 12191, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港07 | x5_解锁, server: zz-08.xn--9kq10ed11b.com, port: 59025, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港08 | x4_解锁, server: zz-05.xn--9kq10ed11b.com, port: 42229, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港09 | x4_解锁, server: zz-04.xn--9kq10ed11b.com, port: 46364, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港10 | x4_解锁, server: zz-01.xn--9kq10ed11b.com, port: 13429, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港11 | x4, server: zz-07.xn--9kq10ed11b.com, port: 48453, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港12 | x4, server: zz-05.xn--9kq10ed11b.com, port: 26395, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港13 | x4, server: zz-01.xn--9kq10ed11b.com, port: 45407, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港14 | x4, server: zz-07.xn--9kq10ed11b.com, port: 30406, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港15 | x4, server: zz-04.xn--9kq10ed11b.com, port: 41363, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港16 | x4, server: zz-05.xn--9kq10ed11b.com, port: 40831, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港17 | x5, server: zz-01.xn--9kq10ed11b.com, port: 53484, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港18 | x5, server: zz-04.xn--9kq10ed11b.com, port: 32264, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港19 | x5, server: zz-07.xn--9kq10ed11b.com, port: 14547, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港20 | x5, server: zz-05.xn--9kq10ed11b.com, port: 47171, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇸🇬 新加坡01 | x4, server: zz-02.xn--9kq10ed11b.com, port: 17306, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇸🇬 新加坡02 | x4, server: zz-07.xn--9kq10ed11b.com, port: 23054, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇸🇬 新加坡03 | x4, server: zz-05.xn--9kq10ed11b.com, port: 28250, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇸🇬 新加坡04 | x3, server: zz-06.xn--9kq10ed11b.com, port: 29173, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇸🇬 新加坡05 | x4, server: zz-04.xn--9kq10ed11b.com, port: 16475, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇸🇬 新加坡06 | x4, server: zz-05.xn--9kq10ed11b.com, port: 22383, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇸🇬 新加坡07 | x4, server: zz-01.xn--9kq10ed11b.com, port: 44877, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇸🇬 新加坡08 | x4, server: zz-04.xn--9kq10ed11b.com, port: 58367, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇸🇬 新加坡09 | x5, server: zz-07.xn--9kq10ed11b.com, port: 21784, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇸🇬 新加坡10 | x4, server: zz-05.xn--9kq10ed11b.com, port: 40399, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本01 | x4, server: zz-04.xn--9kq10ed11b.com, port: 47171, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本02 | x4, server: zz-03.xn--9kq10ed11b.com, port: 46470, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本03 | x4, server: zz-04.xn--9kq10ed11b.com, port: 36787, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本04 | x4, server: zz-01.xn--9kq10ed11b.com, port: 33334, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本05 | x4, server: zz-06.xn--9kq10ed11b.com, port: 33646, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本06 | x4, server: zz-01.xn--9kq10ed11b.com, port: 18849, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本07 | x5, server: zz-04.xn--9kq10ed11b.com, port: 32412, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇯🇵 日本08 | x5, server: zz-01.xn--9kq10ed11b.com, port: 24584, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
+  - {name: '🇭🇰 香港01', type: ss, server: zzhk01.51tu.pro, port: 29801, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
+  - {name: '🇭🇰 香港02', type: ss, server: zzhk01.51tu.pro, port: 29802, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
+  - {name: '🇭🇰 香港03', type: ss, server: zzhk01.51tu.pro, port: 29803, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
+  - {name: '🇭🇰 香港04', type: ss, server: zzhk02.51tu.pro, port: 29804, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
+  - {name: '🇭🇰 香港05', type: ss, server: zzhk02.51tu.pro, port: 29805, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
+  - {name: '🇭🇰 香港06', type: ss, server: zzhk03.51tu.pro, port: 29806, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
+  - {name: '🇭🇰 香港07', type: ss, server: zzhk03.51tu.pro, port: 29807, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
+  - {name: '🇭🇰 香港08', type: ss, server: zzhk03.51tu.pro, port: 29818, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
+  - {name: '🇭🇰 香港09', type: ss, server: zzhk04.51tu.pro, port: 29809, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
   - {name: 🇹🇷 土耳其1, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-gzgBqbwwebq_l-30_sc-1, password: 1g7g3ggggg, skip-cert-verify: false}
   - {name: 🇹🇷 土耳其2, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-y15ETzOEj0S_l-30_sc-1, password: 1g7g3ggggg, skip-cert-verify: false}
   - {name: 🇹🇷 土耳其3, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-yRFgW4XQCUl_l-30_sc-1, password: 1g7g3ggggg, skip-cert-verify: false}
@@ -85,10 +56,10 @@ proxy-groups:
   - name: Googleplay
     type: select
     proxies:
-      - 🇭🇰 香港01 | x4_解锁
-      - 🇭🇰 香港02 | x4_解锁
-      - 🇭🇰 香港03 | x5_解锁
-      - 🇭🇰 香港04 | x4_解锁
+      -  '🇭🇰 香港01'
+      -  '🇭🇰 香港02'
+      -  '🇭🇰 香港03'
+      -  '🇭🇰 香港04'
       - 🇹🇷 土耳其1
       - 🇹🇷 土耳其2
       - 🇹🇷 土耳其3
@@ -120,44 +91,16 @@ proxy-groups:
   - name: Proxies
     type: select
     proxies:
-      - 🇭🇰 香港01 | x4_解锁
-      - 🇭🇰 香港02 | x4_解锁
-      - 🇭🇰 香港03 | x5_解锁
-      - 🇭🇰 香港04 | x4_解锁
-      - 🇭🇰 香港05 | x4_解锁
-      - 🇭🇰 香港06 | x5_解锁
-      - 🇭🇰 香港07 | x5_解锁
-      - 🇭🇰 香港08 | x4_解锁
-      - 🇭🇰 香港09 | x4_解锁
-      - 🇭🇰 香港10 | x4_解锁
-      - 🇭🇰 香港11 | x4
-      - 🇭🇰 香港12 | x4
-      - 🇭🇰 香港13 | x4
-      - 🇭🇰 香港14 | x4
-      - 🇭🇰 香港15 | x4
-      - 🇭🇰 香港16 | x4
-      - 🇭🇰 香港17 | x5
-      - 🇭🇰 香港18 | x5
-      - 🇭🇰 香港19 | x5
-      - 🇭🇰 香港20 | x5
-      - 🇸🇬 新加坡01 | x4
-      - 🇸🇬 新加坡02 | x4
-      - 🇸🇬 新加坡03 | x4
-      - 🇸🇬 新加坡04 | x3
-      - 🇸🇬 新加坡05 | x4
-      - 🇸🇬 新加坡06 | x4
-      - 🇸🇬 新加坡07 | x4
-      - 🇸🇬 新加坡08 | x4
-      - 🇸🇬 新加坡09 | x5
-      - 🇸🇬 新加坡10 | x4
-      - 🇯🇵 日本01 | x4
-      - 🇯🇵 日本02 | x4
-      - 🇯🇵 日本03 | x4
-      - 🇯🇵 日本04 | x4
-      - 🇯🇵 日本05 | x4
-      - 🇯🇵 日本06 | x4
-      - 🇯🇵 日本07 | x5
-      - 🇯🇵 日本08 | x5
+      -  '🇭🇰 香港01'
+      -  '🇭🇰 香港02'
+      -  '🇭🇰 香港03'
+      -  '🇭🇰 香港04'
+      -  '🇭🇰 香港05'
+      -  '🇭🇰 香港06'
+      -  '🇭🇰 香港07'
+      -  '🇭🇰 香港08'
+      -  '🇭🇰 香港09'
+
 rules:
   - DOMAIN-SUFFIX,ipapi.co,Googleplay
   - DOMAIN-SUFFIX,ip-api.com,Googleplay

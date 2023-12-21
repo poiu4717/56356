@@ -76,6 +76,9 @@ proxy-groups:
   - name: Googleplay
     type: select
     proxies:
+      - 🚀 节点选择
+      - ♻️ 自动选择
+      - 🎯 全球直连
       -  '🇭🇰 香港01'
       -  '🇭🇰 香港02'
       -  '🇭🇰 香港03'
@@ -113,6 +116,9 @@ proxy-groups:
   - name: Proxies
     type: select
     proxies:
+      - 🚀 节点选择
+      - ♻️ 自动选择
+      - 🎯 全球直连
       - 🇭🇰 港HK41
       - 🇭🇰 港HK44
       - 🇭🇰 港HK42

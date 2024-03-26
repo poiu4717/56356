@@ -24,8 +24,8 @@ proxies:
   - {name: 🇭🇰 Hong Kong 04, server: core.ajjpss.lol, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: e543234b-165d-42de-8923-4059cf8b75b8, udp: true}
   - {name: 🇭🇰 Hong Kong 05, server: core.ajjpss.lol, port: 41005, type: ss, cipher: chacha20-ietf-poly1305, password: e543234b-165d-42de-8923-4059cf8b75b8, udp: true}
   - {name: 🇭🇰 Hong Kong 06, server: core.ajjpss.lol, port: 41006, type: ss, cipher: chacha20-ietf-poly1305, password: e543234b-165d-42de-8923-4059cf8b75b8, udp: true}
-  - {name: 🇭🇰 香港01, server: gateway.one.91tutu.xyz, port:29801, type: ss, cipher:encrypt-method=chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
-  - {name: 🇭🇰 香港02, server: gateway.two.91tutu.xyz, port:29802, type: ss, cipher:encrypt-method=chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
+  - {name: 🇭🇰 香港01, server: gateway.one.91tutu.xyz, port:29801, type: ss, cipher:chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
+  - {name: 🇭🇰 香港02, server: gateway.two.91tutu.xyz, port:29802, type: ss, cipher:chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
   - {name: 🇭🇰 香港03, server: zzhk01.51tu.pro, port: 29803, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
   - {name: 🇭🇰 香港04, server: zzhk02.51tu.pro, port: 29804, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}
   - {name: 🇭🇰 香港05, server: zzhk02.51tu.pro, port: 29805, type: ss, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true}

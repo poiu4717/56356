@@ -52,12 +52,13 @@ proxies:
   - {name: 加纳3, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-cJhTFSGE}
   - {name: 加纳4, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-aV4Kjno7}
   - {name: 加纳5, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-SaX07ZtE}
-  - {name: 🇯🇵 尼日利亚1, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-E8O1mvTd}
-  - {name: 🇯🇵 尼日利亚2, server: 150.109.18.53, port: 25009, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-64Gl3OZr}
-  - {name: 🇯🇵 尼日利亚3, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-2PrUiQT8}
-  - {name: 🇯🇵 尼日利亚4, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-Sv39pZqc}
-  - {name: 🇯🇵 尼日利亚5, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-sXxen8bz}
-  - {name: 哥伦比亚1, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-0FNntGqj}
+  - {name: 🇯🇵 尼日利亚1, server: 150.109.18.53, port: 10066, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-DOSfPN07}
+  - {name: 🇯🇵 尼日利亚2, server: 150.109.18.53, port: 10066, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-BVL5KaoO}
+  - {name: 🇯🇵 尼日利亚3, server: 150.109.18.53, port: 10066, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-2PrUiQT8}
+  - {name: 🇯🇵 尼日利亚4, server: 150.109.18.53, port: 10066, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-Sv39pZqc}
+  - {name: 🇯🇵 尼日利亚5, server: 150.109.18.53, port: 10066, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-H6SXU3TQ}
+
+  - {name: 哥伦比亚1, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-x0ZvcEXJ}
   - {name: 哥伦比亚2, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-x0ZvcEXJ}
   - {name: 哥伦比亚3, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-veUo7ONB}
   - {name: 哥伦比亚4, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-grYUK23w}

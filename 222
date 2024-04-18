@@ -42,11 +42,11 @@ proxies:
   - {name: 🇹🇷 土耳其1, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-gzgBqbwwebq_l-30_sc-1, password: 1g7g3ggggg}
   - {name: 🇹🇷 土耳其2, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-y15ETzOEj0S_l-30_sc-1, password: 1g7g3ggggg}
   - {name: 🇹🇷 土耳其3, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-yRFgW4XQCUl_l-30_sc-1, password: 1g7g3ggggg}
-  - {name: 🇹🇷 土耳其4, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-0xSVhdmP}
-  - {name: 🇹🇷 土耳其5, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-OYEfyC0h}
-  - {name: 🇹🇷 土耳其6, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-4hHqeSLn}
-  - {name: 🇹🇷 土耳其7, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-0HbCAaFY}
-  - {name: 🇹🇷 土耳其8, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-vmuCQ5xO}
+  - {name: 🇹🇷 土耳其4, server: ss.jinhuiios.top, port: 27860, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-0xSVhdmP}
+  - {name: 🇹🇷 土耳其5, server: ss.jinhuiios.top, port: 27860, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-OYEfyC0h}
+  - {name: 🇹🇷 土耳其6, server: ss.jinhuiios.top, port: 27860, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-4hHqeSLn}
+  - {name: 🇹🇷 土耳其7, server: ss.jinhuiios.top, port: 27860, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-0HbCAaFY}
+  - {name: 🇹🇷 土耳其8, server: ss.jinhuiios.top, port: 27860, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-vmuCQ5xO}
   - {name: 加纳1, server: ss.jinhuiios.top, port: 27860, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-i9TVKq7g}
   - {name: 加纳2, server: ss.jinhuiios.top, port: 27860, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-JQPxOVav}
   - {name: 加纳3, server: ss.jinhuiios.top, port: 27860, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-gh_session-QcFkZujV}

@@ -58,9 +58,15 @@ proxies:
   - {name: 🇯🇵 尼日利亚4, server: 150.109.18.53, port: 10066, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-Sv39pZqc}
   - {name: 🇯🇵 尼日利亚5, server: 150.109.18.53, port: 10066, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-H6SXU3TQ}
 
-  - {name: 哥伦比亚1, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-x0ZvcEXJ}
-  - {name: 哥伦比亚2, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-x0ZvcEXJ}
-  - {name: 哥伦比亚3, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-veUo7ONB}
+  - {name: 哥伦比亚1, server: proxy.miyaip.com, port: 10003, type: socks5, username: 1b7b34cbmiyaipb76_g-NG_f-ff15_sid-gXz02Ndc1Qa_l-30_sc-0, password: 1k7g3jkssfe8s
+
+}
+  - {name: 哥伦比亚2, server: proxy.miyaip.com, port: 10003, type: socks5, username: 1b7b34cbmiyaipb76_g-NG_f-ff15_sid-yWwDFDxTaNU_l-30_sc-0, password: 1k7g3jkssfe8s
+
+}
+  - {name: 哥伦比亚3, server: proxy.miyaip.com, port: 10004, type: socks5, username: 1b7b34cbmiyaipb76_g-NG_f-ff15_sid-yvzXZ3Z3bzs_l-30_sc-0, password: 1k7g3jkssfe8s
+
+}
   - {name: 哥伦比亚4, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-grYUK23w}
   - {name: 哥伦比亚5, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-tCHilW5O}
   - {name: 🇯🇵 尼日利亚6, server: 150.109.18.53, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-GlwHJtbI_state-Lagos_city-Lagos}

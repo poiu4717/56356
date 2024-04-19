@@ -69,11 +69,11 @@ proxies:
 }
   - {name: 哥伦比亚4, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-grYUK23w}
   - {name: 哥伦比亚5, server: 150.109.18.53, port: 30885, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-tCHilW5O}
-  - {name: 🇯🇵 尼日利亚6, server: 150.109.18.53, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-GlwHJtbI_state-Lagos_city-Lagos}
-  - {name: 🇯🇵 尼日利亚7, server: 150.109.18.53, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-sGBTXr5n_state-Lagos_city-Lagos}
-  - {name: 🇯🇵 尼日利亚8, server: 150.109.18.53, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-B1S79YXA_state-Lagos_city-Lagos}
-  - {name: 🇯🇵 尼日利亚9, server: 150.109.18.53, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-XnGimD3y_state-Lagos_city-Lagos}
-  - {name: 🇯🇵 尼日利亚10, server: 150.109.18.53, port: 8002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-HBuZGJaw_state-Lagos_city-Lagos}
+  - {name: 🇯🇵 尼日利亚6, server: ss.jinhuiios.top, port: 23179, type: socks5, username: 47353961-zone-custom-region-NG-city-lagos-sessid-LhzIea3lFx-sessTime-30, password: dJIA8BM3}
+  - {name: 🇯🇵 尼日利亚7, server: ss.jinhuiios.top, port: 23179, type: socks5, username: 47353961-zone-custom-region-NG-city-lagos-sessid-zh08xxgr6j-sessTime-30, password: dJIA8BM3}
+  - {name: 🇯🇵 尼日利亚8, server: ss.jinhuiios.top, port: 23179, type: socks5, username: 47353961-zone-custom-region-NG-city-lagos-sessid-Ougesoaftn-sessTime-30, password: dJIA8BM3}
+  - {name: 🇯🇵 尼日利亚9, server: ss.jinhuiios.top, port: 23179, type: socks5, username: 47353961-zone-custom-region-NG-city-lagos-sessid-rbfB9moIiN-sessTime-30, password: dJIA8BM3}
+  - {name: 🇯🇵 尼日利亚10, server: ss.jinhuiios.top, port: 23179, type: socks5, username: 47353961-zone-custom-region-NG-city-lagos-sessid-1qh4quhmxf-sessTime-30, password: dJIA8BM3}
   - {name: 922, server: 192.168.31.93, port: 30000,  type: socks5, skip-cert-verify: false, udp: true}
 
 proxy-groups:

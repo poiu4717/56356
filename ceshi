@@ -129,7 +129,7 @@ proxy-groups:
       - 922
       - 链式代理
       - 链式代理1
-
+      - 尼日利亚P
   - name: Proxies
     type: select
     proxies:

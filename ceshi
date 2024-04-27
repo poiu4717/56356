@@ -39,7 +39,7 @@ proxies:
   - { name: 美国_06, type: ss, server: gateway-u-s-06.91tutu.xyz, port: 49106, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
   - { name: 美国_07, type: ss, server: gateway-u-s-07.91tutu.xyz, port: 49107, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
   - { name: 美国_08, type: ss, server: gateway-o-t-02.91tutu.xyz, port: 49118, cipher: chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
-  - { name: 尼日利亚P, type: ss, server: gateway-u-s-08.91tutu.xyz, port: 14102, cipher: encrypt-method=chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
+  - { name: 尼日利亚P, type: ss, server: gateway-u-s-08.91tutu.xyz, port: 14102, cipher:chacha20-ietf-poly1305, password: db866e9d-261b-4868-98d6-29a3104420eb, udp: true }
   - {name: 🇹🇷 土耳其1, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-gzgBqbwwebq_l-30_sc-1, password: 1g7g3ggggg}
   - {name: 🇹🇷 土耳其2, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-y15ETzOEj0S_l-30_sc-1, password: 1g7g3ggggg}
   - {name: 🇹🇷 土耳其3, server: proxy.miyaip.com, port: 10001, type: socks5, username: 1b7b34cbmiyaipb76_g-tr_f-ff6_sid-yRFgW4XQCUl_l-30_sc-1, password: 1g7g3ggggg}

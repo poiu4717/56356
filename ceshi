@@ -86,7 +86,7 @@ proxy-groups:
   - name: 链式代理1
     type: relay
     proxies:
-      - 香港_05
+      - 香港_02
       - 921
 
 

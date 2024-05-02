@@ -1,3 +1,4 @@
+
 port: 7890
 socks-port: 7891
 allow-lan: true
@@ -51,26 +52,26 @@ proxies:
   - {name: 尼日8, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-NG-sessid-4sxB5iGlL6-sessTime-30, password: dJIA8BM3}
   - {name: 尼日9, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-NG-sessid-4sxB5iGlL6-sessTime-30, password: dJIA8BM3}
   - {name: 尼日10, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-NG-sessid-LEHet8fx25-sessTime-30, password: dJIA8BM3}
-  - {name: 埃及1, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-wODS38kr}
-  - {name: 埃及2, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-ZUNJwKQv}
-  - {name: 埃及3, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-A08GuOlU}
-  - {name: 埃及4, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-EmJbtCUI}
-  - {name: 埃及5, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-wbsr9lvg}
-  - {name: 埃及6, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-EG-sessid-8wNIPHNyg7-sessTime-30, password: 1g7g3ggggg}
-  - {name: 埃及7, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-EG-sessid-vFcqGhcid5-sessTime-30, password: 1g7g3ggggg}
-  - {name: 埃及8, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-EG-sessid-wPikBM7Aqp-sessTime-30, password: 1g7g3ggggg}
-  - {name: 埃及9, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-EG-sessid-g1yoANHcbg-sessTime-30, password: 1g7g3ggggg}
-  - {name: 埃及10, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-EG-sessid-M9Caf2l63h-sessTime-30, password: 1g7g3ggggg}
-  - {name: 缅甸1, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-K9fASxDo}
-  - {name: 缅甸2, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-jqFagbo1}
-  - {name: 缅甸3, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-rZKBdyMS}
-  - {name: 缅甸4, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-PtaAulvU}
-  - {name: 缅甸5, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-0wQMpPdz}
-  - {name: 缅甸6, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-MM-sessid-c619f2ngNM-sessTime-30, password: dJIA8BM3}
-  - {name: 缅甸7, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-MM-sessid-7digtGkhoJ-sessTime-30, password: dJIA8BM3}
-  - {name: 缅甸8, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-MM-sessid-IyHE9MBxwb-sessTime-30, password: dJIA8BM3}
-  - {name: 缅甸9, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-MM-sessid-auAG0Jwrax-sessTime-30, password: dJIA8BM3}
-  - {name: 缅甸10, server: f8806a.gorelay.xyz, port: 49808, type: socks5, username: 47353961-zone-custom-region-MM-sessid-wAta8iLro2-sessTime-30, password: dJIA8BM3}
+  - {name: 埃及1, server: ss.jinhuiios.top, port: 12975, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-wODS38kr}
+  - {name: 埃及2, server: ss.jinhuiios.top, port: 12975, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-ZUNJwKQv}
+  - {name: 埃及3, server: ss.jinhuiios.top, port: 12975, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-A08GuOlU}
+  - {name: 埃及4, server: ss.jinhuiios.top, port: 12975, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-EmJbtCUI}
+  - {name: 埃及5, server: ss.jinhuiios.top, port: 12975, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-wbsr9lvg}
+  - {name: 埃及6, server: ss.jinhuiios.top, port: 18153, type: socks5, username: 47353961-zone-custom-region-EG-sessid-8wNIPHNyg7-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及7, server: ss.jinhuiios.top, port: 18153, type: socks5, username: 47353961-zone-custom-region-EG-sessid-vFcqGhcid5-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及8, server: ss.jinhuiios.top, port: 18153, type: socks5, username: 47353961-zone-custom-region-EG-sessid-wPikBM7Aqp-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及9, server: ss.jinhuiios.top, port: 18153, type: socks5, username: 47353961-zone-custom-region-EG-sessid-g1yoANHcbg-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及10, server: ss.jinhuiios.top, port: 18153, type: socks5, username: 47353961-zone-custom-region-EG-sessid-M9Caf2l63h-sessTime-30, password: 1g7g3ggggg}
+  - {name: 缅甸1, server: ss.jinhuiios.top, port: 12975, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-K9fASxDo}
+  - {name: 缅甸2, server: ss.jinhuiios.top, port: 12975, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-jqFagbo1}
+  - {name: 缅甸3, server: ss.jinhuiios.top, port: 12975, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-rZKBdyMS}
+  - {name: 缅甸4, server: ss.jinhuiios.top, port: 12975, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-PtaAulvU}
+  - {name: 缅甸5, server: ss.jinhuiios.top, port: 12975, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-0wQMpPdz}
+  - {name: 缅甸6, server: ss.jinhuiios.top, port: 18153, type: socks5, username: 47353961-zone-custom-region-MM-sessid-c619f2ngNM-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸7, server: ss.jinhuiios.top, port: 18153, type: socks5, username: 47353961-zone-custom-region-MM-sessid-7digtGkhoJ-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸8, server: ss.jinhuiios.top, port: 18153, type: socks5, username: 47353961-zone-custom-region-MM-sessid-IyHE9MBxwb-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸9, server: ss.jinhuiios.top, port: 18153, type: socks5, username: 47353961-zone-custom-region-MM-sessid-auAG0Jwrax-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸10, server: ss.jinhuiios.top, port: 18153, type: socks5, username: 47353961-zone-custom-region-MM-sessid-wAta8iLro2-sessTime-30, password: dJIA8BM3}
  
 
 proxy-groups:

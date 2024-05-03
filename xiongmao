@@ -63,7 +63,8 @@ proxy-groups:
       - 熊猫4
       - 熊猫5
       - 熊猫6
- 
+      -  🇭🇰 hk1
+      -  🇭🇰 HK2
 rules:
   - DOMAIN-SUFFIX,ipapi.co,Googleplay
   - DOMAIN-SUFFIX,ip-api.com,Googleplay

@@ -21,6 +21,8 @@ proxies:
   - {name: 熊猫4, server: 45.78.48.189, port: 15206, type: vmess, uuid: 5ba6d055-3a89-4c6b-8b22-1fb50b43dc3b, alterId: 0, cipher: auto, tls: false}
   - {name: 熊猫5, server: 162.248.79.55, port: 15206, type: vmess, uuid: 5ba6d055-3a89-4c6b-8b22-1fb50b43dc3b, alterId: 0, cipher: auto, tls: false}
   - {name: 熊猫6, server: 23.83.235.99, port: 15206, type: vmess, uuid: 5ba6d055-3a89-4c6b-8b22-1fb50b43dc3b, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇭🇰 hk1, server: 47.76.162.143, port: 51371, type: vmess, uuid: e9e922a8-c5fc-4db4-ef69-b739ae8f084b, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇭🇰 HK2, server: 47.76.143.179, port: 21862, type: vmess, uuid: ea51ab9b-5206-4e82-a228-7b8e05b7f4c5, alterId: 0, cipher: auto, tls: false}
   - {name: 缅甸1, server: 106.75.152.119, port: 1000, type: socks5, username: 7b8587ae-fb8354c4-5c625b, password: wifi-mm}
   - {name: 缅甸2, server: 106.75.152.119, port: 1001, type: socks5, username: 7b8587ae-fb8354c4-5b8a32, password: wifi-mm}
   - {name: 缅甸3, server: 106.75.152.119, port: 1002, type: socks5, username: 7b8587ae-fb8354c4-005c0c, password: wifi-mm}
@@ -49,6 +51,8 @@ proxy-groups:
       -  缅甸9
       -  缅甸10
       -  缅甸11
+      -  🇭🇰 hk1
+      -  🇭🇰 HK2
 
   - name: Proxies
     type: select

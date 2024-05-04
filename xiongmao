@@ -34,6 +34,17 @@ proxies:
   - {name: 缅甸9, server: 106.75.152.119, port: 1008, type: socks5, username: 7b8587ae-fb8354c4-6b4434, password: wifi-mm}
   - {name: 缅甸10, server: 106.75.152.119, port: 1009, type: socks5, username: 7b8587ae-fb8354c4-fc19cb, password: wifi-mm}
   - {name: 缅甸11, server: 106.75.152.119, port: 1010, type: socks5, username: 7b8587ae-fb8354c4-96809b, password: wifi-mm}
+proxy-providers:
+          机场:
+            type: http
+            url: https://sub.xeton.dev/sub?target=clash&new_name=true&url=https%3A%2F%2Fjmssub.net%2Fmembers%2Fgetsub.php%3Fservice%3D840570%26id%3D5ba6d055-3a89-4c6b-8b22-1fb50b43dc3b&insert=false&udp=false
+            interval: 86400
+            path: ./proxy_provider/jc.yaml
+            udp: false
+            health-check:
+              enable: true
+              interval: 600
+              url: http://www.gstatic.com/generate_204
 
 
 proxy-groups:
@@ -54,17 +65,14 @@ proxy-groups:
       -  🇭🇰 hk1
       -  🇭🇰 HK2
 
+proxy-groups:
   - name: Proxies
+    use:
+      - 机场
     type: select
-    proxies:
-      - 熊猫1
-      - 熊猫2
-      - 熊猫3
-      - 熊猫4
-      - 熊猫5
-      - 熊猫6
-      -  🇭🇰 hk1
-      -  🇭🇰 HK2
+    url: http://www.gstatic.com/generate_204
+    interval: 600
+    udp: false
 rules:
   - DOMAIN-SUFFIX,ipapi.co,Googleplay
   - DOMAIN-SUFFIX,ip-api.com,Googleplay

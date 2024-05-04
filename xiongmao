@@ -65,7 +65,7 @@ proxy-groups:
       -  🇭🇰 hk1
       -  🇭🇰 HK2
 
-proxy-groups:
+
   - name: Proxies
     use:
       - 机场
